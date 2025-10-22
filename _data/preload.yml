@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2025-10-22 13:28:34.850173'
+  iiif: true
+  thumbnail: https://dl.ndl.go.jp/api/iiif/1131122/R0000001/full/120,/0/default.jpg
+  title: "\u9AD8\u7956\u907A\u6587\u9332"
+  url: https://dl.ndl.go.jp/api/iiif/1131122/manifest.json
+  user: ganto-site
 settings: {}
 version: '2.1'
