@@ -1,0 +1,28 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/1131122/canvas/429"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ndl.go.jp/api/iiif/1131122/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ndl.go.jp/api/iiif/1131122/canvas/429",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3198.84912109375,1762.6783447265625 3198.84912109375,1762.6783447265625 3198.84912109375,1762.6783447265625 3198.84912109375,1762.6783447265625\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9c5e0b6-a3d4-4ec7-8be3-1d0c923153b6.json",
+    "motivation": "commenting"
+}
