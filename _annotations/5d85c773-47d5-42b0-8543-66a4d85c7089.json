@@ -1,0 +1,49 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/1131122/canvas/429"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u7267\u53e3\u5148\u751f",
+            "purpose": "tagging",
+            "creator": {
+                "id": "ganto-site",
+                "name": "ganto-site"
+            },
+            "created": "2025-10-22T15:33:00.568Z",
+            "modified": "2025-10-22T15:33:01.929Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u6b04\u5916\u306b\u66f8\u304d\u8fbc\u307f\u3001\u300c\u5927\u9858\u300d\u306e\u524d2\u7b87\u6240\u8aad\u307f\u53d6\u308c\u305a",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ganto-site",
+                "name": "ganto-site"
+            },
+            "created": "2025-10-22T15:34:12.154Z",
+            "modified": "2025-10-22T15:35:45.475Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ndl.go.jp/api/iiif/1131122/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ndl.go.jp/api/iiif/1131122/canvas/429",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3058.6220703125,1785.0264892578125,98.078369140625,577.4188232421875"
+        }
+    },
+    "id": "5d85c773-47d5-42b0-8543-66a4d85c7089.json",
+    "motivation": "commenting"
+}
