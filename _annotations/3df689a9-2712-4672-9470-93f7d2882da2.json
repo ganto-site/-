@@ -1,0 +1,37 @@
+---
+canvas: "https://dl.ndl.go.jp/api/iiif/1131122/canvas/429"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "\u7267\u53e3\u5148\u751f",
+            "creator": {
+                "id": "ganto-site",
+                "name": "ganto-site"
+            },
+            "created": "2025-10-22T15:48:33.852Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dl.ndl.go.jp/api/iiif/1131122/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dl.ndl.go.jp/api/iiif/1131122/canvas/429",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2969.345703125,524.0172119140625,90.84521484375,1583.8128662109375"
+        }
+    },
+    "id": "3df689a9-2712-4672-9470-93f7d2882da2.json",
+    "motivation": "commenting"
+}
